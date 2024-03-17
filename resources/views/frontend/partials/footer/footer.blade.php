@@ -1,4 +1,4 @@
-<footer class="footer-section bg-lighter pt-100"
+<footer class="footer-section pt-100"
   style="background:#{{ $footerInfo ? $footerInfo->footer_background_color : '' }}">
   <div class="container">
     <div class="row justify-content-between">
