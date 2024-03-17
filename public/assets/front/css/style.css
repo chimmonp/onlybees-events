@@ -500,6 +500,10 @@ a.theme-btn:hover {
         min-height: calc(100vh - 60px);
     }
 
+    .hero-section p{
+        text-align: left;
+    }
+
 }
 
 .hero-content {
@@ -514,7 +518,6 @@ a.theme-btn:hover {
 }
 
 .hero-content p {
-    text-align: left;
     padding-left: 5px;
     font-size: 1.1rem;
     max-width: 700px;
@@ -799,7 +802,7 @@ a.theme-btn:hover {
 
 .event-details-information .syotimer__body {
     gap: 10px;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .event-details-information .syotimer-cell {
@@ -2751,7 +2754,6 @@ blockquote {
 .syotimer-cell {
     flex: 0 0 50%;
     margin-bottom: 20px;
-}
 }
 
 /* Small Devices, Tablets */
